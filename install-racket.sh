@@ -36,7 +36,7 @@ DL_BASE="http://download.racket-lang.org/installers"
 #    echo "ERROR: Unsupported version ${RACKET_VERSION}"
 #    exit 1
 #fi
-URL="https://download.racket-lang.org/releases/7.0/installers/racket-7.0-x86_64-linux.sh"
+URL="https://download.racket-lang.org/releases/7.0/installers/racket-7.1-x86_64-linux.sh"
 
 
 if [ -n "$TEST" ]; then
