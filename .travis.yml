@@ -1,5 +1,8 @@
 language: c
 
+services:
+  - xvfb
+
 env:
   global:
     - RACKET_DIR: '~/racket'
